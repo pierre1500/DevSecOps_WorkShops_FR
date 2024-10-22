@@ -13,8 +13,7 @@ Votre mission est de déployer et de gérer l'infrastructure nécessaire à la s
 - Veiller à ce que l'infrastructure soutienne les opérations critiques sur Mars.
 
 ### **Équipe Azure : Gardiens du Cloud ☁️**
-Votre mission est de superviser les systèmes cloud terrestres et de faciliter la communication entre la Terre et Mars.
-Vous serez responsables de :
+Votre mission est de superviser les systèmes cloud terrestres et de faciliter la communication entre la Terre et Mars. Vous serez responsables de :
 
 - Concevoir une architecture de communication sécurisée.
 - Déployer des solutions de surveillance et de sécurité pour se protéger contre les intrusions.
